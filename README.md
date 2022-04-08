@@ -2,4 +2,4 @@
 
 <b>For the implementation please watch:</b>
 
-[![Video on youtube](http://img.youtube.com/vi/a_yKZfFejNk&t=851s/0.jpg)](https://www.youtube.com/watch?v=a_yKZfFejNk&t=851s)
+[![Implementation Video](https://yt-embed.herokuapp.com/embed?v=a_yKZfFejNk&t=851s)](https://www.youtube.com/watch?v=a_yKZfFejNk&t=851s "Implementation Video")
